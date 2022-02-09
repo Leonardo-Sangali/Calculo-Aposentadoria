@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculo Aposentadoria2</string>
+
+    <string-array name="spinner_values">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+
+</resources>
